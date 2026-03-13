@@ -1,0 +1,14 @@
+GitHub Instructions
+
+https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5
+
+https://www.twistblogg.com/2020/06/use-github-for-hosting-files.html
+
+==================================
+GitHub Repo
+https://github.com/sfiussindiana/sfiussindiana.github.io
+
+==================================
+Template site
+https://www.thelcars.com/menu/
+
