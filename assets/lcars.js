@@ -20,6 +20,14 @@ function playSoundAndRedirect(audioId, url) {
         window.location.href = url;
     };
 }
+function playSoundAndRedirect2(audioId, url) {
+    var audio = document.getElementById(audioId);
+    audio.play();
+
+    audio.onended = function() {
+        window.open(url, "_blank");
+    };
+}
 function goToAnchor(anchorId) {
   window.location.hash = anchorId;
 }
